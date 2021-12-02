@@ -11,4 +11,5 @@ Bootup add-on for WinDOS 3 Update 2 (can be modified to use in others versions)
 Copyright by TartSoft 2021-2021
 Contributed by duongletrieu 
 
-Start WinDOS from other places and you don't need to clicked to WinDOS.bat file to open
+Start WinDOS from other places and you don't need to clicked to WinDOS.bat file to open.
+.
